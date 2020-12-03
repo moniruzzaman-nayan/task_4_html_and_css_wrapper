@@ -1,0 +1,115 @@
+ /*CSS by Nayan*/
+
+.body{
+	text-align: center;
+	background-color: #F0FFFF;
+
+}
+
+.header {
+	min-height: 100px; 
+	
+}
+
+.paragraph1{
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	color: #800000;
+	background-color: #FAF0E6;
+
+}
+
+
+.wrapper{
+	overflow: hidden;
+}
+
+.blog{
+	min-height: 50px;
+	width: 70%;
+	float: left;
+}
+
+.about_me{
+	
+	color: #0000CD;
+	text-align: center;
+}
+
+.about_me_paragraph{
+	text-align: justify;
+	border: 2px solid green ;
+
+
+	
+}
+
+.contact{
+	background-color: #FFF8DC;
+	min-height: 260px;
+	width: 25%;
+	float: right;
+	text-align: center;
+	color: #6A5ACD;
+	border: 5px dashed;
+}
+
+.footer1{
+	min-height:  100px;
+
+
+}
+.goal{
+	color: #0000CD;
+	text-align: center;
+    text-align: center;
+}
+
+.goal_paragraph{
+	text-align: justify;
+
+}
+
+.wrapper2{
+	overflow: hidden;
+}
+
+.single{
+	min-height: 150px;
+	width: 33.2%;
+	border: 1px solid ;
+	float: left;
+	text-align: center;
+}
+
+
+.footer2{
+	min-height:  100px;
+
+
+} 
+.more_about_me{
+	color: #0880CD;
+	text-align: center;
+    text-align: center;
+
+}
+.more_about_me_paragraph{
+	text-align: justify;
+}
+
+
+
+.wrapper3 {
+	overflow: hidden;
+}
+
+.wr3{
+	width: 24.8%;
+	border: 1px solid black;
+	float: left;
+	text-align: center;
+}
+
+
